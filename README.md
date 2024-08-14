@@ -25,6 +25,10 @@ git add .
 ```bash
 git commit -m "initial commit"
 ```
+- Commit 기록을 보여준다
+```bash
+git log
+```
 - 원격 저장소(remote repository) 추가
 ```bash
 git remote add origin [여러분의 repository 주소]
